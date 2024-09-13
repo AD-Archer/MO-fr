@@ -25,4 +25,4 @@ I’m extremely eager to apply the knowledge I gain to both my career and my lif
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-souare-8a61a2259/) or [GitHub](https://github.com/your-github-username).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-souare-8a61a2259/) or [GitHub](https://github.com/MO-fr)
