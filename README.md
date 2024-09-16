@@ -19,7 +19,7 @@ Now, I’m dedicated to mastering coding and computer programming, continuously 
 - **Technical Skills**: Gained proficiency in essential workplace competencies and critical business tech support functions.
 - **Project Experience**:
   - Created a fully functioning website in HTML as a technological solution to a real-world problem.
-  - Developed several projects combining HTML and CSS.
+  - Developed several projects combining HTML, CSS, and JavaScript.
 
 ## Goals
 
