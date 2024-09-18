@@ -25,6 +25,25 @@ Now, I’m dedicated to mastering coding and computer programming, continuously 
 
 I’m extremely eager to apply the knowledge I gain to both my career and my lifestyle, and I believe it’s only up from here.
 
+# 📊 GitHub Stats
+
+- **Stats**  
+  ![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+- **GitHub Streaks**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=mo-fr&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+- **Most used languages**  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## View Counter
+
+[![View Counter](https://visitcount.itsvg.in/api?id=mo-fr&icon=8&color=9)](https://visitcount.itsvg.in)
+
+---
+
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-souare-8a61a2259/) or [GitHub](https://github.com/MO-fr)
